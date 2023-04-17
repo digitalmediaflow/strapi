@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "catgeories",
+  "info": {
+    "singularName": "catgeory",
+    "pluralName": "catgeories",
+    "displayName": "catgeory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "types": {
+      "type": "string"
+    }
+  }
+}
