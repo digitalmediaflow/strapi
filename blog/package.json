@@ -7,14 +7,15 @@
     "develop": "strapi develop",
     "start": "strapi develop",
     "build": "strapi build",
-    "strapi": "strapi",
-    "production": "NODE_ENV=production npm run start"
+    "strapi": "strapi"
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.9.1",
     "@strapi/plugin-users-permissions": "4.9.1",
+    "@strapi/provider-upload-cloudinary": "^4.9.1",
     "@strapi/strapi": "4.9.1",
     "better-sqlite3": "^8.0.1",
+    "cloudinary": "^1.36.1",
     "pg": "^8.10.0"
   },
   "author": {
