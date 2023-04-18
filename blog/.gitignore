@@ -106,6 +106,8 @@ coverage
 # Strapi
 ############################
 
+env
+.env.production
 .env
 license.txt
 exports
@@ -113,3 +115,4 @@ exports
 dist
 build
 .strapi-updater.json
+config
