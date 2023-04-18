@@ -16,6 +16,7 @@
     "@strapi/strapi": "4.9.1",
     "better-sqlite3": "^8.0.1",
     "cloudinary": "^1.36.1",
+    "knex": "^2.4.2",
     "pg": "^8.10.0"
   },
   "author": {
